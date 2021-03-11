@@ -1,1 +1,1 @@
-# business_hack
+# Business Hack
