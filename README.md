@@ -5,4 +5,4 @@
 
 
 ## コミュニティ
-[スタートアップコミュニティ]()
+[スタートアップコミュニティ](https://github.com/rensanrenren/business_hack/issues/2)
