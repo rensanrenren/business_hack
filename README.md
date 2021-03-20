@@ -9,3 +9,6 @@
 
 ## コミュニティ
 [スタートアップコミュニティ](https://github.com/rensanrenren/business_hack/issues/2)
+
+## 概念/用語等
+- [マーケティング]()
