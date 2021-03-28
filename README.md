@@ -6,7 +6,7 @@
 
 ## ビジネス系サイト
 - [参考にするビジネス系YouTubeチャンネル](https://github.com/rensanrenren/business_hack/issues/1)
-- [ビジネス系海外サイト]()
+- [ビジネス系海外サイト](https://github.com/rensanrenren/business_hack/issues/8)
 
 
 ## コミュニティ
