@@ -12,7 +12,7 @@
 
 ## コミュニティ
 - [スタートアップコミュニティ](https://github.com/rensanrenren/business_hack/issues/2)
-- [人と話せるサービス]()
+- [人と話せるサービス](https://github.com/rensanrenren/business_hack/issues/11)
 
 ## 概念/用語等
 - [マーケティング概念/用語等](https://github.com/rensanrenren/business_hack/issues/4)
