@@ -3,7 +3,7 @@
 ## 効率化等
 - [生産性を高める方法](https://github.com/rensanrenren/business_hack/issues/3)
 - [資料作成やデザインに役立つサービス](https://github.com/rensanrenren/business_hack/issues/7)
-- [iPad pro活用]()
+- [iPad pro活用](https://github.com/rensanrenren/business_hack/issues/9)
 
 ## ビジネス系サイト
 - [参考にするビジネス系YouTubeチャンネル](https://github.com/rensanrenren/business_hack/issues/1)
